@@ -20,8 +20,8 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 
 ## Research experience
 
-### PhD Researcher · University of Cambridge
-**Artificial metalloenzyme design, synthetic chemistry and protein engineering · 2022–2026**
+### Artificial Metalloenzyme & Synthetic Chemistry Research
+**PhD Researcher · University of Cambridge · 2022–2026**
 
 - Engineered cytochrome *b*<sub>562</sub> variants as artificial-metalloenzyme scaffolds and developed recombinant expression and purification workflows.
 - Designed and synthesised Ir(III), Zn(II) and Co(II) metalloporphyrin cofactors, optimising challenging metalation and functionalisation steps.
@@ -29,8 +29,8 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 - Synthesised and characterised a 25+ compound substrate library spanning exocyclic methylene and diazirine scaffolds.
 - Presented research in Kenya, Canada and Switzerland after securing £2,500 in competitive Royal Society of Chemistry funding.
 
-### MSc Researcher · Rhodes University
-**Synthetic and medicinal chemistry · 2021–2022**
+### Porphyrin & BODIPY Medicinal Chemistry Research
+**MSc Researcher · Rhodes University · 2021–2022**
 
 - Designed and synthesised 15+ porphyrin and BODIPY analogues using condensation, halogenation and quaternisation chemistry.
 - Built structure–activity relationships through antimicrobial and anticancer evaluation.
