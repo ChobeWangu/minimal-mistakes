@@ -9,5 +9,7 @@ main:
     url: /experience/
   - title: "Publications"
     url: /publications/
+  - title: "CV (PDF)"
+    url: /assets/documents/Choonzo_Chiyumba_CV.pdf
   - title: "Contact"
     url: /contact/

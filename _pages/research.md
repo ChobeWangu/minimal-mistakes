@@ -10,6 +10,12 @@ toc_sticky: true
 My research connects molecular design with biological function. I combine synthesis, protein engineering and spectroscopy to build new chemical systems and understand why they behave as they do.
 </div>
 
+<div class="research-facts career-anchors" aria-label="Research timeline">
+  <div><strong>2022–2026</strong><span>PhD Chemistry · University of Cambridge</span></div>
+  <div><strong>2021–2022</strong><span>MSc Chemistry · Rhodes University</span></div>
+  <div><strong>2020</strong><span>BSc Honours Chemistry · Rhodes University</span></div>
+</div>
+
 ## Artificial metalloenzymes {#artificial-metalloenzymes}
 
 ### Synthetic porphyrin–protein conjugates
