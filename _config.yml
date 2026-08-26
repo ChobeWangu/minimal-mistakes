@@ -1,14 +1,14 @@
 minimal_mistakes_skin: "contrast"
 locale: "en-GB"
-title: "Chobe Wangu"
+title: "Choonzo Chiyumba"
 title_separator: "·"
-subtitle: "Science, purpose and possibility"
+subtitle: "Synthetic chemist and chemical biologist"
 name: "Choonzo Chiyumba"
-description: "The personal and professional portfolio of Choonzo Chiyumba — chemist, researcher and sustainable-development thinker."
+description: "Professional portfolio of Choonzo Chiyumba MRSC — synthetic chemist and chemical biologist specialising in artificial metalloenzymes, bioconjugation and medicinal chemistry."
 url: "https://chobewangu.space"
 baseurl: ""
 repository: "ChobeWangu/minimal-mistakes"
-masthead_title: "Chobe Wangu"
+masthead_title: "Choonzo Chiyumba"
 breadcrumbs: false
 words_per_minute: 200
 search: false
@@ -17,22 +17,33 @@ social:
   type: Person
   name: "Choonzo Chiyumba"
   links:
+    - "https://www.linkedin.com/in/choonzo-chiyumba-188270156"
     - "https://github.com/ChobeWangu"
 
 author:
-  name: "Choonzo Chiyumba"
-  bio: "Chemist · Researcher · Sustainable-development thinker"
+  name: "Choonzo Chiyumba MRSC"
+  avatar: "/assets/images/choonzo-chiyumba-portrait.jpg"
+  bio: "Synthetic chemist · Chemical biologist · Artificial metalloenzyme researcher"
   location: "Cambridge, United Kingdom"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:choonzo.chiyumba@icloud.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/choonzo-chiyumba-188270156"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ChobeWangu"
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ChobeWangu"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:choonzo.chiyumba@icloud.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/choonzo-chiyumba-188270156"
   since: "2026"
 
 include:
