@@ -17,7 +17,8 @@ social:
   type: Person
   name: "Choonzo Chiyumba"
   links:
-    - "https://www.linkedin.com/in/choonzo-chiyumba-188270156"
+    - "https://www.linkedin.com/in/choonzo-nachoobe-chiyumba-188270156"
+    - "https://www.researchgate.net/profile/Choonzo-Chiyumba?ev=hdr_xprf"
     - "https://github.com/ChobeWangu"
 
 author:
@@ -31,7 +32,13 @@ author:
       url: "mailto:choonzo.chiyumba@icloud.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/choonzo-chiyumba-188270156"
+      url: "https://www.linkedin.com/in/choonzo-nachoobe-chiyumba-188270156"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Choonzo-Chiyumba?ev=hdr_xprf"
+    - label: "Download CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/documents/Choonzo_Chiyumba_CV.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ChobeWangu"
@@ -43,7 +50,13 @@ footer:
       url: "mailto:choonzo.chiyumba@icloud.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/choonzo-chiyumba-188270156"
+      url: "https://www.linkedin.com/in/choonzo-nachoobe-chiyumba-188270156"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Choonzo-Chiyumba?ev=hdr_xprf"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/documents/Choonzo_Chiyumba_CV.pdf"
   since: "2026"
 
 include:
