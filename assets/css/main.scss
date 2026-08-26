@@ -856,3 +856,50 @@ html[data-theme="dark"] {
     color: #fff !important;
   }
 }
+
+
+/* Simplified masthead: navigation only */
+.greedy-nav .site-title {
+  display: none !important;
+}
+
+.greedy-nav .visible-links {
+  margin-left: auto;
+}
+
+/* Reliable identity block above the photograph */
+.opening-profile__identity {
+  min-width: 0;
+}
+
+.portrait-heading {
+  padding-bottom: 1rem;
+  color: #fff;
+
+  strong {
+    display: block;
+    color: #fff !important;
+    font: clamp(1.45rem, 2.4vw, 2.15rem)/1.08 Georgia, "Times New Roman", serif;
+    letter-spacing: -.025em;
+  }
+
+  span {
+    display: block;
+    margin-top: .4rem;
+    color: $gold;
+    font-size: .72rem;
+    font-weight: 800;
+    letter-spacing: .18em;
+  }
+}
+
+.opening-profile__portrait {
+  margin: 0;
+}
+
+/* All page titles are white whenever dark mode is active */
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h1.page__title,
+html[data-theme="dark"] .page__inner-wrap > header .page__title {
+  color: #fff !important;
+}
