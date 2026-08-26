@@ -1,25 +1,34 @@
 ---
-title: "About me"
+title: "About"
 permalink: /about/
-excerpt: "A scientist shaped by Zambia, Cambridge and a belief that rigorous research should serve people."
+excerpt: "A Zambian scientist connecting molecular design, human health and purposeful innovation."
 ---
 
 <div class="page-lede">
-I am <strong>Choonzo Chiyumba</strong>, a Zambian chemist and interdisciplinary researcher based in Cambridge. I am motivated by questions that sit between fields: how chemistry can create new catalytic function, how molecular discovery can address diseases such as malaria, and how systems thinking can support more resilient infrastructure.
+I am <strong>Choonzo Chiyumba MRSC</strong>, a Zambian synthetic chemist and chemical biologist based in Cambridge. I work at the interface of molecular synthesis, protein engineering and analytical science.
 </div>
 
-## My journey
+## My scientific journey
 
-My scientific training is rooted in synthetic, inorganic and bioinorganic chemistry. At the University of Cambridge, my doctoral research explores synthetic porphyrin–protein conjugates as artificial metalloenzymes. This work brings together organic synthesis, protein engineering, spectroscopy and catalysis to investigate how engineered biological environments can support chemistry beyond nature’s existing repertoire.
+My training began in chemical biology at the University of Zambia and developed through first-class postgraduate degrees at Rhodes University. During my MSc, I designed and synthesised photoactive porphyrin and BODIPY compounds, established structure–activity relationships through biological evaluation, and contributed to three peer-reviewed publications.
 
-Alongside molecular science, I have studied Engineering for Sustainable Development. That work draws on my earlier experience in public-infrastructure delivery in Zambia and examines water, energy and transport as interconnected systems rather than isolated sectors.
+At the University of Cambridge, my doctoral research moved from small molecules into engineered biological systems. I synthesised synthetic metalloporphyrin cofactors, engineered cytochrome *b*<sub>562</sub> protein variants and created analytical pipelines to study protein–cofactor assembly. This combination of chemistry and protein science has shaped how I approach research: design carefully, measure rigorously and keep the intended function in view.
 
-## What drives me
+## Science with purpose
 
-Malaria is both a scientific challenge and a personal one. Having experienced the disease, I want my next chapter to move towards medicinal chemistry and drug discovery, contributing to better treatments for malaria and other diseases that disproportionately affect communities across Africa.
+Malaria remains an urgent scientific and public-health challenge. I am motivated to move towards medicinal chemistry and drug discovery, applying molecular design to treatments for malaria and other diseases that disproportionately affect communities across Africa.
 
-I care about thoughtful science, clear communication and work that travels beyond disciplinary boundaries. Whether at the scale of a molecule or a national infrastructure system, I am interested in how careful design can unlock better outcomes.
+My interests also extend to sustainable development. Systems thinking and prior experience in infrastructure delivery have taught me to consider not only whether an innovation works, but also the institutions, people and practical conditions required for it to create value.
 
-## Beyond the laboratory
+## How I work
 
-I value mentorship, public engagement and the exchange of ideas across cultures and disciplines. Chobe Wangu is where I bring those strands together: research, professional experience, developing ideas and the wider story behind them.
+<div class="values-grid">
+  <div><strong>Curious</strong><span>I enjoy questions that require learning across disciplinary boundaries.</span></div>
+  <div><strong>Rigorous</strong><span>I build conclusions from reproducible experiments and careful analysis.</span></div>
+  <div><strong>Purpose-led</strong><span>I am drawn to research with a credible path to improving lives.</span></div>
+  <div><strong>Collaborative</strong><span>I value generous teamwork, mentorship and clear communication.</span></div>
+</div>
+
+## Beyond research
+
+I am a University of Cambridge demonstrator and supervisor, supporting students in laboratory technique, risk assessment and scientific problem-solving. As a non-executive board member of the Cambridge-Africa ALBORADA Research Fund, I review research proposals and contribute to funding decisions. I have also led corporate relations for the African Society of Cambridge University, raising £40,000—150% of target—through a revised fundraising strategy.

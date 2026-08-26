@@ -5,7 +5,9 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "CV & Achievements"
-    url: /cv/
+  - title: "Experience"
+    url: /experience/
+  - title: "Publications"
+    url: /publications/
   - title: "Contact"
     url: /contact/
