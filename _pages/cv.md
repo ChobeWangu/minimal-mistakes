@@ -9,6 +9,15 @@ toc: true
 A multidisciplinary profile combining synthetic chemistry, chemical biology, protein engineering, analytical method development, teaching and research leadership.
 </div>
 
+<div class="cv-download-panel">
+  <div>
+    <span class="section-kicker">CURRICULUM VITAE</span>
+    <strong>Prefer the complete document?</strong>
+    <p>Download my two-page professional CV for research and employment enquiries.</p>
+  </div>
+  <a class="btn btn--primary" href="/assets/documents/Choonzo_Chiyumba_CV.pdf" download>Download CV (PDF)</a>
+</div>
+
 ## Research experience
 
 ### PhD Researcher · University of Cambridge
