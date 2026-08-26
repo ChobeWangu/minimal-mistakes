@@ -846,3 +846,13 @@ html[data-theme="dark"] {
     box-shadow: 10px 10px 0 rgba($gold,.30);
   }
 }
+
+
+/* Ensure primary titles remain readable in dark mode */
+html[data-theme="dark"] {
+  .page__title,
+  .archive__item-title,
+  .page__content > h1 {
+    color: #fff !important;
+  }
+}
