@@ -1,5 +1,18 @@
 <!-- start custom head snippets -->
 
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<script>
+  (function () {
+    try {
+      var savedTheme = localStorage.getItem("portfolio-theme");
+      var systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      var theme = savedTheme || (systemDark ? "dark" : "light");
+      document.documentElement.setAttribute("data-theme", theme);
+      document.documentElement.style.colorScheme = theme;
+    } catch (error) {
+      document.documentElement.setAttribute("data-theme", "light");
+    }
+  }());
+</script>
+<script defer src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
 
 <!-- end custom head snippets -->
