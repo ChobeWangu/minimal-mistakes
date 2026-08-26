@@ -6,16 +6,25 @@ excerpt: "Connect for research, collaboration and professional opportunities."
 
 <div class="contact-panel">
   <span class="section-kicker">START A CONVERSATION</span>
-  <h2>I welcome thoughtful connections.</h2>
-  <p>If you would like to discuss research, medicinal chemistry, global health, sustainable development or a professional opportunity, you can reach me through GitHub while this site’s dedicated email contact is being prepared.</p>
-  <a class="btn btn--primary" href="https://github.com/ChobeWangu">Connect on GitHub</a>
+  <h2>Let’s connect.</h2>
+  <p>I welcome conversations about research positions, medicinal chemistry, biocatalysis, bioconjugation, chemical biology, global health and interdisciplinary collaboration.</p>
+  <div class="button-row">
+    <a class="btn btn--light-outline" href="mailto:choonzo.chiyumba@icloud.com">Email me</a>
+    <a class="btn btn--light-outline" href="https://www.linkedin.com/in/choonzo-chiyumba-188270156">LinkedIn</a>
+  </div>
 </div>
 
-## Areas for connection
+## Professional interests
 
-- Research and postdoctoral opportunities
-- Medicinal chemistry and drug discovery
-- Malaria and global-health innovation
-- Artificial metalloenzymes and bioinorganic chemistry
-- Sustainable infrastructure and systems thinking
-- Scientific communication and interdisciplinary collaboration
+- Synthetic and medicinal chemistry
+- Artificial metalloenzymes and biocatalysis
+- Protein–small molecule bioconjugation
+- Analytical method development
+- Malaria and global-health drug discovery
+- Scientific communication, mentoring and interdisciplinary collaboration
+
+## Contact details
+
+**Email:** [choonzo.chiyumba@icloud.com](mailto:choonzo.chiyumba@icloud.com)  
+**LinkedIn:** [Choonzo Chiyumba](https://www.linkedin.com/in/choonzo-chiyumba-188270156)  
+**Location:** Cambridge, United Kingdom
