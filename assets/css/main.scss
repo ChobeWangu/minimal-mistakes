@@ -1,9 +1,189 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/skins/contrast";
+@import "minimal-mistakes";
+
+$navy: #102a43;
+$navy-deep: #071c2c;
+$gold: #c9a55c;
+$cream: #f7f4ed;
+$ink: #243b53;
+$mist: #e7edf2;
+
+html { scroll-behavior: smooth; }
+
+body {
+  color: $ink;
+  font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  background: #fff;
+}
+
+.masthead {
+  border-bottom: 1px solid rgba($navy, .09);
+  background: rgba(255,255,255,.96);
+  backdrop-filter: blur(12px);
+}
+
+.greedy-nav {
+  background: transparent;
+  a { color: $navy; }
+  .site-title {
+    letter-spacing: .03em;
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: 700;
+  }
+}
+
+.page__hero--overlay {
+  min-height: 68vh;
+  display: flex;
+  align-items: center;
+  background:
+    radial-gradient(circle at 78% 22%, rgba($gold,.25), transparent 26%),
+    linear-gradient(130deg, $navy-deep 0%, $navy 62%, #234e70 100%) !important;
+
+  .wrapper { max-width: 1120px; }
+  .page__title { display: none; }
+  .page__lead { max-width: 850px; }
+}
+
+.eyebrow, .section-kicker {
+  display: block;
+  color: $gold;
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .18em;
+  margin-bottom: 1rem;
+}
+
+.hero-title {
+  display: block;
+  color: #fff;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.75rem, 7vw, 5.8rem);
+  line-height: .98;
+  letter-spacing: -.045em;
+  margin-bottom: 1.5rem;
+}
+
+.hero-copy {
+  display: block;
+  max-width: 690px;
+  color: rgba(255,255,255,.82);
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  line-height: 1.65;
+}
+
+.page__hero--overlay .btn {
+  border-radius: 999px;
+  padding: .85em 1.5em;
+}
+
+.archive, .page { padding-top: 2rem; }
+.page__title {
+  color: $navy;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.4rem, 5vw, 4.2rem);
+  letter-spacing: -.035em;
+}
+
+.page__content h2 {
+  color: $navy;
+  font-family: Georgia, "Times New Roman", serif;
+  margin-top: 2.5em;
+}
+
+.page-lede {
+  max-width: 850px;
+  margin: 0 0 3rem;
+  padding-left: 1.4rem;
+  border-left: 3px solid $gold;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.2rem, 2vw, 1.55rem);
+  line-height: 1.6;
+  color: $navy;
+}
+
+.feature__wrapper {
+  border: 0;
+  margin-bottom: 3rem;
+  .archive__item {
+    height: 100%;
+    padding: 1.8rem;
+    border: 1px solid $mist;
+    border-radius: 4px;
+    transition: transform .2s ease, box-shadow .2s ease;
+    &:hover { transform: translateY(-4px); box-shadow: 0 18px 42px rgba($navy,.10); }
+  }
+  .archive__item-title { color: $navy; font-family: Georgia, "Times New Roman", serif; }
+}
+
+.section-title {
+  max-width: 650px;
+  margin: 0 0 2rem;
+  color: $navy;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+}
+
+.portfolio-quote {
+  margin: 4rem 0;
+  padding: clamp(2rem, 5vw, 4rem);
+  background: $cream;
+  border-left: 5px solid $gold;
+  p {
+    max-width: 900px;
+    margin: 0;
+    color: $navy;
+    font: 1.5rem/1.55 Georgia, "Times New Roman", serif;
+  }
+}
+
+.cta-panel, .contact-panel {
+  margin: 3rem 0;
+  padding: clamp(2rem, 5vw, 4rem);
+  background: $navy;
+  color: white;
+  h2 { margin: .3rem 0 1rem; color: white; }
+  p { max-width: 760px; color: rgba(255,255,255,.82); }
+}
+
+.cta-panel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+}
+
+.btn--primary { background: $navy; }
+.btn--light-outline { color: #fff !important; border: 1px solid rgba(255,255,255,.6); }
+.btn--light-outline:hover { background: #fff; color: $navy !important; }
+
+.principles-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  div { padding: 1.5rem; background: $cream; border-top: 3px solid $gold; }
+  strong { display: block; color: $navy; margin-bottom: .5rem; }
+  span { font-size: .9rem; }
+}
+
+.note-card {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: $cream;
+  border: 1px solid darken($cream, 8%);
+}
+
+.page__footer { background: $navy-deep; color: rgba(255,255,255,.78); }
+
+@media (max-width: 760px) {
+  .page__hero--overlay { min-height: 72vh; }
+  .cta-panel { align-items: flex-start; flex-direction: column; }
+  .principles-grid { grid-template-columns: 1fr; }
+  .feature__wrapper .archive__item { margin-bottom: 1rem; }
+}
