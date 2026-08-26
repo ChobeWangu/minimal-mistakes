@@ -679,7 +679,7 @@ html[data-theme="dark"] {
 
     strong {
       display: block;
-      font: clamp(1.4rem, 3vw, 2.25rem)/1.05 Georgia, "Times New Roman", serif;
+      font: clamp(1.15rem, 1.8vw, 1.65rem)/1.12 Georgia, "Times New Roman", serif;\n      letter-spacing: -.015em;
     }
 
     span {
@@ -787,4 +787,18 @@ html[data-theme="dark"] {
   }
 
   .opening-profile__copy { padding: .75rem .25rem 1rem; }
+}
+
+
+/* Keep the portrait nameplate compact and clear of the face */
+.opening-profile__portrait figcaption {
+  top: clamp(.8rem, 2vw, 1.25rem);
+  left: clamp(.9rem, 2vw, 1.35rem);
+  right: auto;
+  max-width: 70%;
+}
+
+.opening-profile__portrait figcaption strong {
+  font-size: clamp(1.15rem, 1.8vw, 1.65rem);
+  line-height: 1.12;
 }
