@@ -903,3 +903,64 @@ html[data-theme="dark"] h1.page__title,
 html[data-theme="dark"] .page__inner-wrap > header .page__title {
   color: #fff !important;
 }
+
+
+/* Structured numbered publication list */
+ol.publication-list {
+  margin: 2.5rem 0 4rem;
+  padding: 0;
+  list-style: none;
+  counter-reset: publications;
+
+  > li {
+    position: relative;
+    counter-increment: publications;
+    margin: 0;
+    padding: 0 0 2.5rem 4.25rem;
+    border-bottom: 1px solid var(--border);
+
+    & + li { padding-top: 2.5rem; }
+
+    &::before {
+      content: counter(publications, decimal-leading-zero);
+      position: absolute;
+      left: 0;
+      top: 0;
+      color: $gold;
+      font: 1.2rem/1 Georgia, "Times New Roman", serif;
+      letter-spacing: .08em;
+    }
+
+    & + li::before { top: 2.5rem; }
+  }
+
+  h2 {
+    margin: 0 0 1rem;
+    color: var(--heading);
+    font: clamp(1.3rem, 2.2vw, 1.75rem)/1.35 Georgia, "Times New Roman", serif;
+  }
+
+  p {
+    margin: .5rem 0;
+    line-height: 1.65;
+  }
+}
+
+.publication-doi {
+  display: inline-block;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+
+.publication-contribution {
+  margin-top: 1rem !important;
+  padding-left: 1rem;
+  border-left: 2px solid $gold;
+  color: var(--text-muted);
+}
+
+@media (max-width: 600px) {
+  ol.publication-list > li {
+    padding-left: 2.8rem;
+  }
+}
