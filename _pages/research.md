@@ -1,47 +1,52 @@
 ---
-title: "Research & projects"
+title: "Research"
 permalink: /research/
-excerpt: "Research across artificial metalloenzymes, global health and sustainable infrastructure."
+excerpt: "Research spanning artificial metalloenzymes, medicinal chemistry and functional molecular design."
 toc: true
 toc_sticky: true
 ---
 
 <div class="page-lede">
-My work spans molecular design and systems-level questions. Across these scales, the common thread is purposeful innovation: understanding complex environments well enough to create better function.
+My research connects molecular design with biological function. I combine synthesis, protein engineering and spectroscopy to build new chemical systems and understand why they behave as they do.
 </div>
 
 ## Artificial metalloenzymes {#artificial-metalloenzymes}
 
 ### Synthetic porphyrin–protein conjugates
 
-My doctoral research at the University of Cambridge investigates engineered cytochrome *b*<sub>562</sub> variants as scaffolds for synthetic metalloporphyrins. The aim is to combine the catalytic possibilities of non-natural metal cofactors with the selectivity and adaptable environment of proteins.
+My PhD at the University of Cambridge explores engineered cytochrome *b*<sub>562</sub> variants as scaffolds for synthetic metalloporphyrins. The work asks how a protein environment can be redesigned to give non-natural metal cofactors enzyme-like selectivity and function.
 
-Key areas of the work include:
+<div class="research-facts">
+  <div><strong>Cofactors</strong><span>Ir(III), Zn(II) and Co(II) metalloporphyrins</span></div>
+  <div><strong>Protein platform</strong><span>Engineered cytochrome <em>b</em><sub>562</sub> variants</span></div>
+  <div><strong>Methods</strong><span>UV–Vis, fluorescence, NMR, HPLC, HRMS and IR</span></div>
+</div>
 
-- synthesis and characterisation of iridium and zinc porphyrin cofactors;
-- protein engineering and evaluation of cofactor binding;
-- UV–visible and fluorescence spectroscopy;
-- mechanistic studies of axial-ligand and protein–cofactor interactions; and
-- preliminary carbene-transfer catalysis, including cyclopropanation.
+My contributions include:
 
-This research asks a deceptively simple question: how can a protein environment be redesigned to make a synthetic metal complex behave more like an enzyme?
+- designing and synthesising synthetic metalloporphyrin cofactors;
+- optimising metalation and functionalisation reactions;
+- engineering and producing protein variants for selective cofactor binding;
+- establishing quantitative cofactor-binding assay workflows;
+- interpreting structure–function relationships across protein and porphyrin panels; and
+- investigating preliminary carbene-transfer chemistry, including cyclopropanation.
 
-## Global health & drug discovery {#global-health}
+## Synthetic & medicinal chemistry {#synthetic-chemistry}
 
-My long-term research direction is medicinal chemistry for malaria and other infectious diseases. I am particularly interested in the path from molecular design to a viable therapeutic: target selection, structure–activity relationships, synthesis, pharmacology and the practical realities of creating medicines for global use.
+Across my PhD and MSc research, I independently synthesised more than 40 compounds spanning metalloporphyrins, BODIPY dyes, exocyclic methylene substrates and diazirine scaffolds. I planned multi-step routes, purified products and completed structural and functional characterisation.
 
-My motivation is grounded in both scientific training and lived experience. I want to help translate advanced chemistry into treatments that reach the people who need them.
+My MSc work generated a 15+ compound photoactive analogue series for antimicrobial and anticancer evaluation. Systematic biological testing identified halogenation and cationic charge as important determinants of activity, creating a complete structure–activity profile that led to peer-reviewed publication.
 
-## Sustainable infrastructure systems {#sustainable-infrastructure}
+## Analytical method development {#analytical}
 
-My work in Engineering for Sustainable Development examines the enablers and barriers affecting sustainable physical infrastructure in Zambia. Using practitioner interviews, thematic analysis and causal-loop mapping, the project considers water, energy and transport as a connected system.
+I established new analytical workflows as research questions demanded them. These included UV–visible and fluorescence titrations for protein–cofactor binding, chromatography for purity assessment, NMR and HRMS for molecular characterisation, and singlet-oxygen quantum-yield measurements for photoactive compounds.
 
-The research explores governance, finance, climate resilience, technology, political economy, external actors, community participation and institutional capacity. It builds on my professional experience in public-infrastructure delivery and quality assurance.
+This experience has made me comfortable moving between routine, reproducible analysis and open-ended troubleshooting when a method or reaction does not behave as expected.
 
-## Research approach
+## Future direction: global health {#global-health}
 
-<div class="principles-grid">
-  <div><strong>Rigorous</strong><span>Evidence, careful measurement and transparent reasoning.</span></div>
-  <div><strong>Interdisciplinary</strong><span>Connecting molecular science, engineering and policy.</span></div>
-  <div><strong>Purpose-led</strong><span>Choosing questions with a credible path to human benefit.</span></div>
+My long-term direction is medicinal chemistry and drug discovery for malaria and other infectious diseases. I am particularly interested in the full path from molecular hypothesis to useful therapeutic: target selection, compound design, structure–activity relationships, synthesis, biological evaluation and developability.
+
+<div class="portfolio-quote">
+  <p>I want to apply rigorous chemistry to health challenges where scientific progress can translate into profound human impact.</p>
 </div>
