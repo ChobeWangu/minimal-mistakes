@@ -630,3 +630,161 @@ html[data-theme="dark"] {
 @media (max-width: 760px) {
   .theme-toggle { margin-left: .35rem; width: 2.15rem; height: 2.15rem; }
 }
+
+
+/* Portrait-led opening section */
+.opening-profile {
+  display: grid;
+  grid-template-columns: minmax(280px, .78fr) minmax(360px, 1.22fr);
+  align-items: center;
+  gap: clamp(2.5rem, 7vw, 6rem);
+  margin: 0 0 4rem;
+  padding: clamp(1.5rem, 5vw, 4.5rem);
+  background:
+    radial-gradient(circle at 84% 18%, rgba($gold,.16), transparent 28%),
+    linear-gradient(135deg, $navy-deep, $navy);
+  color: #fff;
+}
+
+.opening-profile__portrait {
+  position: relative;
+  margin: 0;
+  overflow: hidden;
+  box-shadow: 18px 18px 0 rgba($gold,.30);
+
+  img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: 50% 44%;
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(3,16,27,.78) 0, rgba(3,16,27,.18) 28%, transparent 48%);
+    pointer-events: none;
+  }
+
+  figcaption {
+    position: absolute;
+    z-index: 1;
+    top: 1.25rem;
+    left: 1.35rem;
+    right: 1.35rem;
+    color: #fff;
+    text-shadow: 0 2px 14px rgba(0,0,0,.65);
+
+    strong {
+      display: block;
+      font: clamp(1.4rem, 3vw, 2.25rem)/1.05 Georgia, "Times New Roman", serif;
+    }
+
+    span {
+      display: block;
+      margin-top: .35rem;
+      color: $gold;
+      font-size: .72rem;
+      font-weight: 800;
+      letter-spacing: .18em;
+    }
+  }
+}
+
+.opening-profile__copy {
+  h1 {
+    max-width: 720px;
+    margin: 0 0 1.35rem;
+    color: #fff;
+    font: clamp(2.35rem, 5vw, 4.6rem)/1.02 Georgia, "Times New Roman", serif;
+    letter-spacing: -.04em;
+  }
+
+  p {
+    max-width: 680px;
+    color: rgba(255,255,255,.80);
+    font-size: 1.05rem;
+    line-height: 1.75;
+  }
+}
+
+.btn--gold {
+  background: $gold;
+  color: $navy-deep !important;
+
+  &:hover { background: lighten($gold, 8%); }
+}
+
+/* Complete page-wide dark mode coverage */
+html[data-theme="dark"],
+html[data-theme="dark"] body,
+html[data-theme="dark"] #main,
+html[data-theme="dark"] .initial-content,
+html[data-theme="dark"] .layout--single,
+html[data-theme="dark"] .layout--splash,
+html[data-theme="dark"] .page,
+html[data-theme="dark"] .archive,
+html[data-theme="dark"] .page__inner-wrap,
+html[data-theme="dark"] .page__content,
+html[data-theme="dark"] .sidebar,
+html[data-theme="dark"] .nav__list {
+  background-color: var(--site-bg) !important;
+  color: var(--text-main) !important;
+}
+
+html[data-theme="dark"] {
+  .masthead, .greedy-nav, .greedy-nav .visible-links {
+    background-color: var(--nav-bg) !important;
+  }
+
+  .greedy-nav .hidden-links,
+  .author__urls-wrapper,
+  .author__urls,
+  .toc,
+  .pagination li a,
+  input,
+  textarea,
+  select,
+  pre {
+    background-color: var(--surface) !important;
+    color: var(--text-main) !important;
+    border-color: var(--border) !important;
+  }
+
+  .page__meta,
+  .page__date,
+  .author__bio,
+  .author__urls,
+  figcaption,
+  small {
+    color: var(--text-muted) !important;
+  }
+
+  .nav__list a,
+  .author__urls a,
+  .pagination a {
+    color: var(--link) !important;
+  }
+
+  .timeline > div::before { box-shadow: 0 0 0 5px var(--site-bg); }
+  .publication-list h3:not(:first-child) { border-top-color: var(--border); }
+  .page__footer { background: $navy-deep !important; }
+}
+
+@media (max-width: 760px) {
+  .opening-profile {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 1.15rem;
+  }
+
+  .opening-profile__portrait {
+    max-width: 430px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 0 rgba($gold,.30);
+  }
+
+  .opening-profile__copy { padding: .75rem .25rem 1rem; }
+}
