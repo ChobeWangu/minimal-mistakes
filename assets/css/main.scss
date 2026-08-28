@@ -1008,3 +1008,11 @@ html[data-theme="dark"] .values-grid strong {
   font-size: .95rem;
   letter-spacing: .02em;
 }
+
+
+/* Balanced alignment for homepage profile copy */
+.opening-profile__copy > p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
