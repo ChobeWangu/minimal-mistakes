@@ -5,7 +5,7 @@ excerpt: "A Zambian chemist working across molecular synthesis, protein science 
 ---
 
 <div class="page-lede">
-I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a Zambian chemist and doctoral researcher at the University of Cambridge. As the first Stuart Warren Studentship recipient and a Cambridge Africa Changemakers Scholar, I have built a research profile that crosses synthetic chemistry, chemical biology, protein engineering and advanced molecular characterisation.
+I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a Zambian chemist who has submitted a PhD thesis in Chemistry at the University of Cambridge, with the viva pending. As the first Stuart Warren Studentship recipient and a Cambridge Africa Changemakers Scholar, I have built a research profile that crosses synthetic chemistry, chemical biology, protein engineering and advanced molecular characterisation.
 </div>
 
 ## My scientific journey
@@ -33,6 +33,8 @@ This ambition is personal as well as scientific. It is why I am building the ran
 
 At the University of Cambridge, I have trained and supported more than 20 undergraduate students in laboratory technique, risk assessment, data interpretation and scientific problem-solving. Teaching has strengthened my ability to explain complex science clearly, adapt to different levels of experience and create an environment in which others can develop confidence.
 
-My contribution also extends into scientific leadership and community building. As a non-executive board member supporting the Cambridge-Africa ALBORADA Research Fund, I review research proposals and contribute to funding decisions. I have secured £2,500 in competitive Royal Society of Chemistry funding for scientific engagement and international presentation, and while leading corporate relations for the African Society of Cambridge University, I helped raise £40,000 through a revised partnership strategy.
+My contribution also extends into scientific leadership, innovation and community building. Through EnterpriseTECH at the Cambridge Judge Entrepreneurship Centre, I evaluated innovative technologies, translated technical ideas into persuasive funding pitches and produced market-facing video content. The experience strengthened my ability to connect scientific evidence with commercial opportunity and communicate value beyond the laboratory.
+
+As a non-executive board member supporting the Cambridge-Africa ALBORADA Research Fund, I review research proposals and contribute to funding decisions. I have secured £2,500 in competitive Royal Society of Chemistry funding for scientific engagement and international presentation, and while leading corporate relations for the African Society of Cambridge University, I helped raise £40,000 through a revised partnership strategy.
 
 Across research, teaching and leadership, the common thread is clear: I turn ambitious ideas into structured work, measurable evidence and outcomes that create opportunities for others.
