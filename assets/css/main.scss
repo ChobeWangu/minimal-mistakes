@@ -988,6 +988,12 @@ ol.publication-list {
 }
 
 
+/* Keep evidence-card titles readable in dark mode */
+html[data-theme="dark"] .values-grid strong {
+  color: var(--heading) !important;
+}
+
+
 /* Evidence-led homepage positioning */
 .opening-profile__copy .profile-proof {
   margin-top: 1.5rem;
