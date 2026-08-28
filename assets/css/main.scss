@@ -1127,3 +1127,35 @@ body.about-profile .page__content > p {
     .section-kicker { grid-column: auto; }
   }
 }
+
+
+/* Two-column presentation for the supplied protein–porphyrin illustration */
+.research-showcase {
+  display: grid;
+  grid-template-columns: minmax(0, .78fr) minmax(360px, 1.22fr);
+  gap: clamp(2rem, 5vw, 4.5rem);
+  align-items: center;
+}
+
+.research-showcase__intro {
+  display: block;
+  margin: 0;
+
+  h2 { margin-top: .7rem; }
+}
+
+.research-schematic img {
+  max-height: 720px;
+  object-fit: contain;
+  background: #fff;
+}
+
+@media (max-width: 900px) {
+  .research-showcase {
+    grid-template-columns: 1fr;
+  }
+
+  .research-schematic img {
+    max-height: 640px;
+  }
+}
