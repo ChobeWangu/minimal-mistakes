@@ -1068,3 +1068,62 @@ body.about-profile .page__content > p {
   text-justify: inter-word;
   hyphens: auto;
 }
+
+
+/* Visual explanation of artificial metalloenzyme assembly */
+.research-showcase {
+  margin: 4rem 0 5rem;
+  padding: clamp(1.5rem, 4vw, 3rem);
+  border: 1px solid var(--border);
+  background: var(--surface-soft);
+}
+
+.research-showcase__intro {
+  display: grid;
+  grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr);
+  column-gap: clamp(2rem, 6vw, 5rem);
+  align-items: start;
+  margin-bottom: 2rem;
+
+  .section-kicker { grid-column: 1 / -1; }
+
+  h2 {
+    margin: .7rem 0 0;
+    color: var(--heading);
+    font: clamp(2rem, 4vw, 3.1rem)/1.08 Georgia, "Times New Roman", serif;
+  }
+
+  p {
+    margin: .7rem 0 1rem;
+    color: var(--text-main);
+    line-height: 1.75;
+  }
+}
+
+.research-schematic {
+  margin: 0;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+    box-shadow: 0 18px 45px var(--shadow);
+  }
+
+  figcaption {
+    margin-top: .9rem;
+    color: var(--text-muted);
+    font-size: .86rem;
+    line-height: 1.5;
+    text-align: center;
+  }
+}
+
+@media (max-width: 760px) {
+  .research-showcase__intro {
+    grid-template-columns: 1fr;
+
+    .section-kicker { grid-column: auto; }
+  }
+}
