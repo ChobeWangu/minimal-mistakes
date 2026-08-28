@@ -23,7 +23,7 @@ My research connects molecular design with biological function. I combine synthe
 My PhD at the University of Cambridge explores engineered cytochrome *b*<sub>562</sub> variants as scaffolds for synthetic metalloporphyrins. The work asks how a protein environment can be redesigned to give non-natural metal cofactors enzyme-like selectivity and function.
 
 <div class="research-facts">
-  <div><strong>Cofactors</strong><span>Ir(III), Zn(II) and Co(II) metalloporphyrins</span></div>
+  <div><strong>Cofactors</strong><span>Ir(III) and Zn(II) metalloporphyrins</span></div>
   <div><strong>Protein platform</strong><span>Engineered cytochrome <em>b</em><sub>562</sub> variants</span></div>
   <div><strong>Methods</strong><span>UV–Vis, fluorescence, NMR, HPLC, HRMS and IR</span></div>
 </div>

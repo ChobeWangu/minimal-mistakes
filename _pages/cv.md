@@ -24,7 +24,7 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 **PhD Researcher · University of Cambridge · 2022–2026**
 
 - Engineered cytochrome *b*<sub>562</sub> variants as artificial-metalloenzyme scaffolds and developed recombinant expression and purification workflows.
-- Designed and synthesised Ir(III), Zn(II) and Co(II) metalloporphyrin cofactors, optimising challenging metalation and functionalisation steps.
+- Designed and synthesised Ir(III) and Zn(II) metalloporphyrin cofactors, optimising challenging metalation and functionalisation steps.
 - Established quantitative UV–visible and fluorescence binding assays across a four-porphyrin panel.
 - Synthesised and characterised a 25+ compound substrate library spanning exocyclic methylene and diazirine scaffolds.
 - Presented research in Kenya, Canada and Switzerland after securing £2,500 in competitive Royal Society of Chemistry funding.
