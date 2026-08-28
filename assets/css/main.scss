@@ -986,3 +986,19 @@ ol.publication-list {
     font-size: clamp(2rem, 9vw, 3rem) !important;
   }
 }
+
+
+/* Evidence-led homepage positioning */
+.opening-profile__copy .profile-proof {
+  margin-top: 1.5rem;
+  padding: 1rem 0 1rem 1.1rem;
+  border-left: 3px solid $gold;
+}
+
+.opening-profile__copy .profile-proof strong {
+  display: inline-block;
+  margin-bottom: .4rem;
+  color: #fff;
+  font-size: .95rem;
+  letter-spacing: .02em;
+}
