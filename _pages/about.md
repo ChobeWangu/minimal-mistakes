@@ -1,7 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-excerpt: "A Zambian chemist working across molecular synthesis, protein science and drug-discovery-relevant research."
+excerpt: "A chemist working across molecular synthesis, protein science and drug-discovery-relevant research."
+classes: wide about-profile
 ---
 
 <div class="page-lede">

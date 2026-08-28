@@ -1060,3 +1060,11 @@ html[data-theme="dark"] .values-grid strong {
 @supports not (background: color-mix(in srgb, #000 10%, transparent)) {
   .expertise-card__mark i { background: rgba(200,155,60,.12); }
 }
+
+
+/* Justified narrative copy on the About page */
+body.about-profile .page__content > p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
