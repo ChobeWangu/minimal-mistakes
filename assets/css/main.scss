@@ -1197,3 +1197,71 @@ body.about-profile .page__content > p {
     margin-right: -.5rem;
   }
 }
+
+
+/* Homepage research figure gallery */
+.research-gallery {
+  margin: 5rem 0;
+}
+
+.research-gallery__heading {
+  max-width: 780px;
+  margin-bottom: 1.5rem;
+
+  h2 {
+    margin: .6rem 0 0;
+    color: var(--heading);
+    font: clamp(2rem, 4vw, 3rem)/1.08 Georgia, "Times New Roman", serif;
+  }
+}
+
+.research-gallery__grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+
+  figure {
+    margin: 0;
+    padding: 1rem;
+    border: 1px solid var(--border);
+    background: #fff;
+    box-shadow: 0 14px 34px var(--shadow);
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+    background: #fff;
+  }
+
+  figcaption {
+    padding: 1rem .25rem .25rem;
+    border-top: 1px solid #e7edf2;
+
+    strong {
+      display: block;
+      margin-bottom: .35rem;
+      color: #102a43;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.05rem;
+    }
+
+    span {
+      display: block;
+      color: #526d82;
+      font-size: .86rem;
+      line-height: 1.55;
+    }
+  }
+}
+
+@media (max-width: 760px) {
+  .research-gallery__grid {
+    grid-template-columns: 1fr;
+
+    img { height: auto; max-height: 360px; }
+  }
+}
