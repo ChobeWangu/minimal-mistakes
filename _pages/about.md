@@ -5,7 +5,7 @@ excerpt: "A Zambian chemist working across molecular synthesis, protein science 
 ---
 
 <div class="page-lede">
-I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a Zambian chemist and Cambridge Trust Scholar.
+I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a chemist and Cambridge Trust Scholar.
 </div>
 
 ## My scientific journey
