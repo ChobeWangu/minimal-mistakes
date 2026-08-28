@@ -21,7 +21,7 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 ## Research experience
 
 ### Artificial Metalloenzyme & Synthetic Chemistry Research
-**PhD Researcher · University of Cambridge · 2022–2026**
+**PhD Researcher · University of Cambridge · 2022–2026 · Thesis submitted; viva pending**
 
 - Engineered cytochrome *b*<sub>562</sub> variants as artificial-metalloenzyme scaffolds and developed recombinant expression and purification workflows.
 - Designed and synthesised Ir(III) and Zn(II) metalloporphyrin cofactors, optimising challenging metalation and functionalisation steps.
@@ -36,6 +36,15 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 - Built structure–activity relationships through antimicrobial and anticancer evaluation.
 - Completed characterisation using NMR, HPLC, UV–visible and fluorescence spectroscopy, including singlet-oxygen quantum yields.
 - Contributed to three peer-reviewed publications in porphyrin chemistry, catalysis and chemosensing.
+
+## Innovation & commercialisation experience
+
+### EnterpriseTECH
+**Cambridge Judge Entrepreneurship Centre · Sep–Oct 2024**
+
+- Researched and evaluated innovative technologies within a multidisciplinary team, identifying their technical strengths and potential routes to impact.
+- Translated complex scientific ideas into persuasive funding-pitch narratives for non-specialist and commercially focused audiences.
+- Developed concise video-marketing content to communicate technology value, strengthening commercial awareness, teamwork and stakeholder communication.
 
 ## Technical capabilities
 
