@@ -22,6 +22,11 @@ My research connects molecular design with biological function. I combine synthe
 
 My PhD at the University of Cambridge explores engineered cytochrome *b*<sub>562</sub> variants as scaffolds for synthetic metalloporphyrins. The work asks how a protein environment can be redesigned to give non-natural metal cofactors enzyme-like selectivity and function.
 
+<figure class="research-explainer research-explainer--concept">
+  <img src="/assets/images/artificial-metalloenzyme-concept.svg" alt="Venn diagram showing artificial metalloenzymes at the intersection of organometallic complexes and natural enzymes." loading="lazy">
+  <figcaption><strong>Why artificial metalloenzymes?</strong> They seek to combine the broad, non-natural reactivity of organometallic complexes with the selectivity and mild operating conditions of enzymes.</figcaption>
+</figure>
+
 <div class="research-facts">
   <div><strong>Cofactors</strong><span>Ir(III) and Zn(II) metalloporphyrins</span></div>
   <div><strong>Protein platform</strong><span>Engineered cytochrome <em>b</em><sub>562</sub> variants</span></div>
@@ -36,6 +41,11 @@ My contributions include:
 - establishing quantitative cofactor-binding assay workflows;
 - interpreting structure–function relationships across protein and porphyrin panels; and
 - investigating preliminary carbene-transfer chemistry, including cyclopropanation.
+
+<figure class="research-explainer research-explainer--assembly">
+  <img src="/assets/images/porphyrin-protein-assembly.svg" alt="Molecular illustration showing a synthetic porphyrin cofactor combining with an engineered cytochrome b562 protein scaffold." loading="lazy">
+  <figcaption><strong>Cofactor assembly.</strong> A synthetic metalloporphyrin is introduced into the engineered protein scaffold to create a defined, tunable cofactor environment.</figcaption>
+</figure>
 
 ## Synthetic & medicinal chemistry {#synthetic-chemistry}
 

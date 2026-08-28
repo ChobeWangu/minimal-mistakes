@@ -1159,3 +1159,41 @@ body.about-profile .page__content > p {
     max-height: 640px;
   }
 }
+
+
+/* Research-page scientific figures */
+.research-explainer {
+  margin: 2.25rem 0 3.25rem;
+  padding: clamp(1rem, 3vw, 1.75rem);
+  border: 1px solid var(--border);
+  background: #fff;
+  box-shadow: 0 16px 38px var(--shadow);
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 680px;
+    object-fit: contain;
+  }
+
+  figcaption {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e7edf2;
+    color: #526d82;
+    font-size: .9rem;
+    line-height: 1.6;
+
+    strong { color: #102a43; }
+  }
+}
+
+.research-explainer--assembly img { max-height: 560px; }
+
+@media (max-width: 760px) {
+  .research-explainer {
+    margin-left: -.5rem;
+    margin-right: -.5rem;
+  }
+}
