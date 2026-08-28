@@ -5,7 +5,7 @@ excerpt: "A Zambian chemist working across molecular synthesis, protein science 
 ---
 
 <div class="page-lede">
-I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a Zambian chemist who has submitted a PhD thesis in Chemistry at the University of Cambridge, with the viva pending. As the first Stuart Warren Studentship recipient and a Cambridge Africa Changemakers Scholar, I have built a research profile that crosses synthetic chemistry, chemical biology, protein engineering and advanced molecular characterisation.
+I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a Zambian chemist and Cambridge Trust Scholar.
 </div>
 
 ## My scientific journey
