@@ -2,7 +2,7 @@ minimal_mistakes_skin: "contrast"
 locale: "en-GB"
 title: "Choonzo Chiyumba"
 title_separator: "·"
-subtitle: "Synthetic chemist and chemical biologist"
+subtitle: "Doctoral Researcher in Chemistry · MRSC · Stuart Warren Scholar"
 name: "Choonzo Chiyumba"
 description: "Professional portfolio of Choonzo Chiyumba MRSC — synthetic chemist and chemical biologist specialising in artificial metalloenzymes, bioconjugation and medicinal chemistry."
 url: "https://chobewangu.space"
@@ -24,7 +24,7 @@ social:
 author:
   name: "Choonzo Chiyumba MRSC"
   avatar: "/assets/images/choonzo-chiyumba-portrait.jpg"
-  bio: "Synthetic chemist · Chemical biologist · Artificial metalloenzyme researcher"
+  bio: "Doctoral Researcher in Chemistry · MRSC · Cambridge Africa Changemakers and Stuart Warren Scholar"
   location: "Cambridge, United Kingdom"
   links:
     - label: "Email"
