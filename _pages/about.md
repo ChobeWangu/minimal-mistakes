@@ -5,14 +5,14 @@ excerpt: "A Zambian scientist connecting molecular design, human health and purp
 ---
 
 <div class="page-lede">
-I am <strong>Choonzo Chiyumba MRSC</strong>, a Zambian synthetic chemist and chemical biologist based in Cambridge. I work at the interface of molecular synthesis, protein engineering and analytical science.
+I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a Zambian doctoral researcher in chemistry at the University of Cambridge and the first recipient of the Stuart Warren Studentship. I work at the interface of molecular synthesis, protein engineering and analytical science.
 </div>
 
 ## My scientific journey
 
 My training began in chemical biology at the University of Zambia and developed through first-class postgraduate degrees at Rhodes University. During my MSc, I designed and synthesised photoactive porphyrin and BODIPY compounds, established structure–activity relationships through biological evaluation, and contributed to three peer-reviewed publications.
 
-At the University of Cambridge, my doctoral research moved from small molecules into engineered biological systems. I synthesised synthetic metalloporphyrin cofactors, engineered cytochrome *b*<sub>562</sub> protein variants and created analytical pipelines to study protein–cofactor assembly. This combination of chemistry and protein science has shaped how I approach research: design carefully, measure rigorously and keep the intended function in view.
+Fully funded through the Cambridge Africa Changemakers and Stuart Warren Studentships, my doctoral research at the University of Cambridge moved from small molecules into engineered biological systems. I synthesised synthetic metalloporphyrin cofactors, engineered cytochrome *b*<sub>562</sub> protein variants and created analytical pipelines to study protein–cofactor assembly. This combination of chemistry and protein science has shaped how I approach research: design carefully, measure rigorously and keep the intended function in view.
 
 ## Science with purpose
 
