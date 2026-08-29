@@ -1444,3 +1444,49 @@ body.synthetic-chemistry-page .page__content > p {
     &:last-child { border-bottom: 0; }
   }
 }
+
+/* Prevent the homepage opening content from clipping at desktop widths */
+.opening-profile {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+.opening-profile__identity,
+.opening-profile__copy {
+  min-width: 0;
+}
+
+.opening-profile__copy .section-kicker {
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.55;
+}
+
+@media (min-width: 761px) and (max-width: 1180px) {
+  .opening-profile {
+    grid-template-columns: minmax(240px, .7fr) minmax(0, 1.3fr);
+    gap: clamp(1.75rem, 4vw, 3.5rem);
+    padding: clamp(2rem, 4vw, 3.5rem);
+  }
+
+  .opening-profile__copy .section-kicker {
+    font-size: .66rem;
+    letter-spacing: .14em;
+  }
+}
+
+/* Keep the homepage evidence statement readable as one connected thought */
+.opening-profile__copy .profile-proof {
+  text-align: left;
+  text-justify: auto;
+  hyphens: none;
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+.opening-profile__copy .profile-proof strong {
+  line-height: 1.55;
+}

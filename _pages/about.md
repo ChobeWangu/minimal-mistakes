@@ -15,7 +15,7 @@ My scientific training began with a BSc in Chemical Biology at the University of
 
 At Cambridge, my research developed along two independent lines. As a synthetic organic chemist, I built a 25+ compound substrate library spanning exocyclic-methylene and diazirine scaffolds, developed multi-step coumarin and carbene-precursor routes, and completed purification and structure confirmation by NMR and HRMS. This work strengthened my capabilities in route design, scaffold diversification, reaction optimisation and small-molecule characterisation.
 
-In parallel, my doctoral research explores synthetic porphyrin–protein conjugates as artificial metalloenzymes. I designed and synthesised Ir(III) and Zn(II) metalloporphyrin cofactors, engineered cytochrome *b*<sub>562</sub> protein variants, and developed quantitative workflows to understand protein–cofactor assembly. Together, these two pillars give me depth in synthetic chemistry and the ability to apply molecules within complex biological systems.
+In parallel, my doctoral research explores synthetic porphyrin–protein conjugates as artificial metalloenzymes. I designed and synthesised Ir(III) and Zn(II) metalloporphyrin cofactors, engineered cytochrome *b*<sub>562</sub> protein variants, and developed quantitative workflows to understand protein–cofactor assembly. Together, these two pillars give me depth in synthetic chemistry and the ability to apply molecules within complex biological systems. They also support a wider scientific goal: developing chemical transformations that combine molecular precision with greater selectivity, milder conditions and a more sustainable approach to chemical production.
 
 ## Science with purpose
 

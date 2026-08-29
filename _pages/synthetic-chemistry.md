@@ -9,7 +9,7 @@ classes: wide synthetic-chemistry-page
 ---
 
 <div class="page-lede">
-Synthetic organic chemistry is an independent pillar of my research profile. I design routes, build structurally varied compound libraries, solve challenging reactions and establish molecular identity and purity before those molecules enter catalytic or biological studies.
+Synthetic organic chemistry is an independent pillar of my research profile. I design routes, build structurally varied compound libraries, solve challenging reactions and establish molecular identity and purity before those molecules enter catalytic or biological studies. This capability underpins my wider interest in more selective and sustainable chemical production: better catalysts still depend on well-designed, rigorously characterised molecules.
 </div>
 
 <div class="synthesis-metrics" aria-label="Synthetic chemistry highlights">
@@ -67,5 +67,5 @@ Systematic biological and photophysical evaluation connected halogenation, π-ex
 </div>
 
 <div class="portfolio-quote">
-  <p>I use synthesis to create the molecular diversity needed to ask sharper questions—whether the endpoint is catalysis, chemical biology or medicinal chemistry.</p>
+  <p>I use synthesis to create the molecular diversity needed to ask sharper questions—whether the endpoint is catalysis, chemical biology, medicinal chemistry or more sustainable chemical production.</p>
 </div>
