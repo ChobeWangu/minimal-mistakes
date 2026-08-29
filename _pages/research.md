@@ -1,13 +1,13 @@
 ---
-title: "Research"
+title: "Artificial Metalloenzymes"
 permalink: /research/
-excerpt: "Research spanning artificial metalloenzymes, medicinal chemistry and functional molecular design."
+excerpt: "Artificial metalloenzyme research combining synthetic Ir(III) and Zn(II) porphyrins with engineered cytochrome b562 scaffolds."
 toc: true
 toc_sticky: true
 ---
 
 <div class="page-lede">
-My research connects molecular design with biological function. I combine synthesis, protein engineering and spectroscopy to build new chemical systems and understand why they behave as they do.
+This research pillar combines synthetic Ir(III) and Zn(II) porphyrins with engineered cytochrome <em>b</em><sub>562</sub> variants to investigate how a protein environment can shape non-natural cofactor binding and reactivity. My independent [synthetic organic chemistry portfolio](/synthetic-chemistry/) covers compound libraries, coumarins, diazirines, porphyrins and BODIPY analogues.
 </div>
 
 <div class="research-facts career-anchors" aria-label="Research timeline">
@@ -47,11 +47,6 @@ My contributions include:
   <figcaption><strong>Cofactor assembly.</strong> A synthetic metalloporphyrin is introduced into the engineered protein scaffold to create a defined, tunable cofactor environment.</figcaption>
 </figure>
 
-## Synthetic & medicinal chemistry {#synthetic-chemistry}
-
-Across my PhD and MSc research, I independently synthesised more than 40 compounds spanning metalloporphyrins, BODIPY dyes, exocyclic methylene substrates and diazirine scaffolds. I planned multi-step routes, purified products and completed structural and functional characterisation.
-
-My MSc work generated a 15+ compound photoactive analogue series for antimicrobial and anticancer evaluation. Systematic biological testing identified halogenation and cationic charge as important determinants of activity, creating a complete structure–activity profile that led to peer-reviewed publication.
 
 ## Analytical method development {#analytical}
 
