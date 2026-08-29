@@ -20,13 +20,20 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 
 ## Research experience
 
-### Artificial Metalloenzyme & Synthetic Chemistry Research
+### Synthetic Organic Chemistry Research
+**University of Cambridge · 2022–2026**
+
+- Designed and synthesised a 25+ compound substrate library comprising 15 exocyclic-methylene compounds and 10 diazirine scaffolds.
+- Developed multi-step routes to substituted coumarins and carbene precursors, including diazo and tosylhydrazone derivatives.
+- Planned analogue series, optimised reactions, purified products chromatographically and confirmed structures by NMR and HRMS.
+- Applied synthetic libraries to mechanistic and catalytic questions, including preliminary carbene-transfer and cyclopropanation studies.
+
+### Artificial Metalloenzyme Research
 **PhD Researcher · University of Cambridge · 2022–2026 · Thesis submitted; viva pending**
 
 - Engineered cytochrome *b*<sub>562</sub> variants as artificial-metalloenzyme scaffolds and developed recombinant expression and purification workflows.
 - Designed and synthesised Ir(III) and Zn(II) metalloporphyrin cofactors, optimising challenging metalation and functionalisation steps.
 - Established quantitative UV–visible and fluorescence binding assays across a four-porphyrin panel.
-- Synthesised and characterised a 25+ compound substrate library spanning exocyclic methylene and diazirine scaffolds.
 - Presented research in Kenya, Canada and Switzerland after securing £2,500 in competitive Royal Society of Chemistry funding.
 
 ### Porphyrin & BODIPY Medicinal Chemistry Research
