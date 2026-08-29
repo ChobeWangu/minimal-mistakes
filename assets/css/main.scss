@@ -1490,3 +1490,94 @@ body.synthetic-chemistry-page .page__content > p {
 .opening-profile__copy .profile-proof strong {
   line-height: 1.55;
 }
+
+
+/* Sustainability is the purpose, not a footnote */
+.sustainability-story {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(280px, .65fr);
+  gap: clamp(2rem, 6vw, 5rem);
+  margin: 1.5rem 0 5rem;
+  padding: clamp(2rem, 5vw, 4.5rem);
+  border-top: 5px solid #c89b3c;
+  background: linear-gradient(135deg, #f7f4ed 0%, #eef5f3 100%);
+  color: #102a43;
+}
+
+.sustainability-story__statement {
+  h2 {
+    max-width: 760px;
+    margin: .5rem 0 1.5rem;
+    color: #102a43;
+    font: clamp(2.35rem, 4.5vw, 4rem)/1.04 Georgia, "Times New Roman", serif;
+    letter-spacing: -.03em;
+  }
+
+  p {
+    max-width: 800px;
+    color: #334e68;
+    font-size: 1.02rem;
+    line-height: 1.8;
+    text-align: left;
+    hyphens: none;
+  }
+
+  strong { color: #102a43; }
+}
+
+.sustainability-story__outcomes {
+  display: grid;
+  gap: .8rem;
+
+  > div {
+    padding: 1.25rem 1.35rem;
+    border-left: 3px solid #2f7f86;
+    background: rgba(255,255,255,.78);
+  }
+
+  span {
+    display: block;
+    margin-bottom: .5rem;
+    color: #c89b3c;
+    font-size: .72rem;
+    font-weight: 800;
+    letter-spacing: .16em;
+  }
+
+  strong {
+    display: block;
+    color: #102a43;
+    font: 1.25rem/1.2 Georgia, "Times New Roman", serif;
+  }
+
+  p {
+    margin: .55rem 0 0;
+    color: #526d82;
+    font-size: .86rem;
+    line-height: 1.55;
+  }
+}
+
+html[data-theme="dark"] .sustainability-story {
+  background: linear-gradient(135deg, #13273a 0%, #153239 100%);
+  color: #fff;
+}
+
+html[data-theme="dark"] .sustainability-story__statement h2,
+html[data-theme="dark"] .sustainability-story__statement strong,
+html[data-theme="dark"] .sustainability-story__outcomes strong {
+  color: #fff;
+}
+
+html[data-theme="dark"] .sustainability-story__statement p,
+html[data-theme="dark"] .sustainability-story__outcomes p {
+  color: #d7e2ec;
+}
+
+html[data-theme="dark"] .sustainability-story__outcomes > div {
+  background: rgba(7, 28, 44, .58);
+}
+
+@media (max-width: 860px) {
+  .sustainability-story { grid-template-columns: 1fr; }
+}
