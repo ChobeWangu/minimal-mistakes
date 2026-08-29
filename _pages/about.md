@@ -13,7 +13,9 @@ I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a chemist and Cambridge Tr
 
 My scientific training began with a BSc in Chemical Biology at the University of Zambia and continued through first-class postgraduate training in chemistry at Rhodes University. During my MSc, I designed and synthesised more than 15 π-extended BODIPY dyes and cationic porphyrins for photodynamic anticancer and antimicrobial research. By connecting molecular structure with biological performance, I developed an early interest in how deliberate chemical design can solve problems in human health and contributed to three peer-reviewed publications.
 
-At Cambridge, I moved beyond small-molecule synthesis to build functional systems at the chemistry–biology interface. My doctoral research explores synthetic porphyrin–protein conjugates as artificial metalloenzymes. I have designed and synthesised Ir(III) and Zn(II) metalloporphyrin cofactors, engineered cytochrome *b*<sub>562</sub> protein variants, and developed quantitative workflows to understand protein–cofactor assembly. This work brings together multi-step synthesis, recombinant protein expression and purification, bioconjugation, NMR, HPLC, high-resolution mass spectrometry, UV–visible spectroscopy and fluorescence analysis.
+At Cambridge, my research developed along two independent lines. As a synthetic organic chemist, I built a 25+ compound substrate library spanning exocyclic-methylene and diazirine scaffolds, developed multi-step coumarin and carbene-precursor routes, and completed purification and structure confirmation by NMR and HRMS. This work strengthened my capabilities in route design, scaffold diversification, reaction optimisation and small-molecule characterisation.
+
+In parallel, my doctoral research explores synthetic porphyrin–protein conjugates as artificial metalloenzymes. I designed and synthesised Ir(III) and Zn(II) metalloporphyrin cofactors, engineered cytochrome *b*<sub>562</sub> protein variants, and developed quantitative workflows to understand protein–cofactor assembly. Together, these two pillars give me depth in synthetic chemistry and the ability to apply molecules within complex biological systems.
 
 ## Science with purpose
 
@@ -26,9 +28,9 @@ In October 2025, I was an invited delegate at Medicines for Malaria Venture’s 
 ## What I bring
 
 <div class="values-grid">
-  <div><strong>Molecules to proteins</strong><span>I can take a project from multi-step cofactor synthesis through protein engineering, bioconjugation and functional characterisation.</span></div>
-  <div><strong>Evidence-led discovery</strong><span>I build defensible conclusions by combining complementary analytical techniques with quantitative binding and structure–activity analysis.</span></div>
-  <div><strong>Scientific communication</strong><span>I have presented research internationally in Kenya, Canada and Switzerland and contributed to three peer-reviewed publications.</span></div>
+  <div><strong>Synthetic breadth</strong><span>Multi-step route design, analogue libraries, reaction optimisation, purification and structure confirmation across 40+ compounds.</span></div>
+  <div><strong>Artificial metalloenzyme systems</strong><span>Metalloporphyrin synthesis, protein engineering, cofactor assembly, quantitative binding and preliminary catalysis.</span></div>
+  <div><strong>Evidence-led discovery</strong><span>I combine NMR, HRMS, HPLC and spectroscopy with quantitative binding and structure–activity analysis.</span></div>
   <div><strong>Leadership with results</strong><span>I have won competitive RSC funding, supported research-funding decisions and delivered a £40,000 partnership campaign—150% of target.</span></div>
 </div>
 
