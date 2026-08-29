@@ -46,6 +46,15 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 - Translated complex scientific ideas into persuasive funding-pitch narratives for non-specialist and commercially focused audiences.
 - Developed concise video-marketing content to communicate technology value, strengthening commercial awareness, teamwork and stakeholder communication.
 
+## Global-health engagement
+
+### Invited Delegate · Science of Malaria Medicine Symposium
+**Medicines for Malaria Venture · Geneva · 7 October 2025**
+
+- Attended by invitation and engaged with current scientific and translational challenges in malaria and anti-infective drug discovery.
+- Strengthened the connection between my experience in molecular design, medicinal chemistry and chemical biology and my long-term goal of contributing to malaria drug discovery.
+- [View the official MMV event page](https://www.mmv.org/events/science-malaria-medicine-symposium).
+
 ## Technical capabilities
 
 <div class="skill-groups">
