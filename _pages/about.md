@@ -21,6 +21,8 @@ I am motivated by chemistry that can move from molecular insight towards meaning
 
 This ambition is personal as well as scientific. It is why I am building the range to work across conventional synthetic chemistry and engineered biological systems: I want to help create new therapeutic possibilities, not simply study molecules in isolation.
 
+In October 2025, I was an invited delegate at Medicines for Malaria Venture’s [Science of Malaria Medicine Symposium](https://www.mmv.org/events/science-malaria-medicine-symposium) in Geneva. Engaging with contemporary challenges in malaria and anti-infective drug discovery reinforced the direction in which I want to take my chemistry: towards therapeutics with meaningful global-health impact.
+
 ## What I bring
 
 <div class="values-grid">
