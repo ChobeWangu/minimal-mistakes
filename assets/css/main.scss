@@ -1477,3 +1477,16 @@ body.synthetic-chemistry-page .page__content > p {
     letter-spacing: .14em;
   }
 }
+
+/* Keep the homepage evidence statement readable as one connected thought */
+.opening-profile__copy .profile-proof {
+  text-align: left;
+  text-justify: auto;
+  hyphens: none;
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+.opening-profile__copy .profile-proof strong {
+  line-height: 1.55;
+}
