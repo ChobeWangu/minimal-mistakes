@@ -3,8 +3,6 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Synthetic Chemistry"
-    url: /synthetic-chemistry/
   - title: "Metalloenzymes"
     url: /research/
   - title: "Experience"
