@@ -1708,39 +1708,62 @@ html[data-theme="dark"] .sustainability-story__outcomes > div {
 /* Prevent the first and last navigation controls from clipping on laptops */
 @media (min-width: 761px) and (max-width: 1180px) {
   .masthead__inner-wrap {
-    padding-left: 1.35rem !important;
-    padding-right: 1.35rem !important;
-    overflow: visible;
+    padding-left: .7rem !important;
+    padding-right: .7rem !important;
+    overflow: hidden;
   }
 
   .greedy-nav {
     box-sizing: border-box;
     width: 100%;
-    padding-left: .35rem;
-    padding-right: .35rem;
-    overflow: visible;
+    padding-left: 0;
+    padding-right: 0;
+    overflow: hidden;
   }
 
   .greedy-nav .visible-links {
-    flex: 1 1 auto;
-    justify-content: space-between;
+    flex: 1 1 0;
+    justify-content: flex-start;
+    gap: clamp(.15rem, .7vw, .55rem);
     margin-left: 0;
-    overflow: visible;
+    overflow: hidden;
   }
 
   .greedy-nav .visible-links li:first-child a {
-    margin-left: .15rem;
+    margin-left: 0;
   }
 
   .greedy-nav .visible-links a {
-    margin-left: .18rem;
-    margin-right: .18rem;
-    font-size: .72rem;
+    margin: 0;
+    padding-left: .18rem;
+    padding-right: .18rem;
+    font-size: clamp(.57rem, 1.05vw, .7rem);
   }
 
   .theme-toggle {
-    margin-left: .45rem;
-    margin-right: .15rem;
+    flex: 0 0 2.15rem;
+    width: 2.15rem;
+    height: 2.15rem;
+    margin-left: .35rem;
+    margin-right: 0;
+  }
+}
+
+/* At zoomed laptop widths, let the theme's More menu absorb excess links. */
+@media (min-width: 761px) and (max-width: 980px) {
+  .masthead__inner-wrap {
+    padding-left: .5rem !important;
+    padding-right: .5rem !important;
+  }
+
+  .greedy-nav .visible-links {
+    gap: .08rem;
+  }
+
+  .greedy-nav .visible-links a {
+    padding-left: .1rem;
+    padding-right: .1rem;
+    font-size: .58rem;
   }
 }
 
