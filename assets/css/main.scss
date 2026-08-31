@@ -1640,3 +1640,67 @@ html[data-theme="dark"] .sustainability-story__outcomes > div {
     padding-top: 2.75rem;
   }
 }
+
+/* Fit the complete opening story within typical laptop viewports */
+@media (min-width: 761px) {
+  .portrait-heading {
+    padding-bottom: .75rem;
+  }
+
+  .portrait-heading strong {
+    font-size: clamp(1.75rem, 2.65vw, 2.75rem) !important;
+    line-height: 1.02 !important;
+  }
+
+  .opening-profile__copy > p {
+    font-size: clamp(.76rem, 1.2vw, .88rem);
+    line-height: 1.62;
+    margin-bottom: .9rem;
+    text-align: left;
+    text-justify: auto;
+    hyphens: none;
+  }
+
+  .opening-profile__copy .profile-proof {
+    margin-top: .85rem;
+    padding: .75rem 0 .75rem .9rem;
+  }
+
+  .opening-profile__copy .profile-proof strong {
+    margin-bottom: .25rem;
+    font-size: .78rem;
+    line-height: 1.45;
+  }
+
+  .opening-profile__copy .button-row {
+    gap: .6rem;
+  }
+
+  .opening-profile__copy .btn {
+    padding: .62em 1em;
+    font-size: .76rem;
+  }
+}
+
+@media (min-width: 761px) and (max-width: 1180px) {
+  .opening-profile {
+    grid-template-columns: minmax(220px, .72fr) minmax(0, 1.28fr);
+    gap: clamp(1.5rem, 3.5vw, 2.75rem);
+    padding: 1.5rem clamp(1.5rem, 3.5vw, 2.75rem) 2rem;
+  }
+
+  .opening-profile__copy h1 {
+    margin-bottom: .85rem;
+    font-size: clamp(1.8rem, 3.7vw, 2.55rem) !important;
+    line-height: 1.02 !important;
+  }
+
+  .opening-profile__copy .section-kicker {
+    margin-bottom: .65rem;
+    line-height: 1.4;
+  }
+
+  .opening-profile__portrait {
+    max-width: 320px;
+  }
+}
