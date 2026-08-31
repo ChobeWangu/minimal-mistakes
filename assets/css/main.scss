@@ -1581,3 +1581,62 @@ html[data-theme="dark"] .sustainability-story__outcomes > div {
 @media (max-width: 860px) {
   .sustainability-story { grid-template-columns: 1fr; }
 }
+
+/* Compact desktop navigation and keep the theme control inside the viewport */
+.masthead__inner-wrap {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.greedy-nav {
+  min-width: 0;
+}
+
+.greedy-nav .visible-links {
+  min-width: 0;
+}
+
+@media (min-width: 761px) and (max-width: 1180px) {
+  .masthead__inner-wrap {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .greedy-nav .visible-links a {
+    margin: 0 .32rem;
+    padding-left: .18rem;
+    padding-right: .18rem;
+    font-size: .82rem;
+    white-space: nowrap;
+  }
+
+  .theme-toggle {
+    margin-left: .3rem;
+    margin-right: .25rem;
+  }
+
+  .opening-profile {
+    align-items: start;
+    padding-top: 2rem;
+    padding-bottom: 2.5rem;
+  }
+
+  .opening-profile__identity,
+  .opening-profile__copy {
+    align-self: start;
+  }
+
+  .opening-profile__copy {
+    padding-top: .2rem;
+  }
+}
+
+@media (min-width: 1181px) {
+  .masthead__inner-wrap {
+    padding-right: 1.25rem;
+  }
+
+  .opening-profile {
+    padding-top: 2.75rem;
+  }
+}
