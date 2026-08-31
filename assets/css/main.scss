@@ -1350,6 +1350,20 @@ body.about-profile .page__content > p {
 .research-pillar--synthesis { --pillar-accent: #c89b3c; }
 .research-pillar--arm { --pillar-accent: #2f7f86; }
 
+/* Centre the tall protein–cofactor illustration inside its landscape card. */
+.research-pillar--arm figure {
+  place-items: center;
+}
+
+.research-pillar--arm figure img {
+  width: auto;
+  height: 100%;
+  max-width: 100%;
+  margin-inline: auto;
+  object-fit: contain;
+  object-position: center;
+}
+
 .research-pillar__label {
   color: var(--pillar-accent);
   font-size: .74rem;
