@@ -1895,3 +1895,45 @@ html[data-theme="dark"] .sustainability-story__outcomes > div {
   .opening-profile__copy h1 { font-size: clamp(27px, 2.65vw, 34px) !important; }
   .opening-profile__copy > p { font-size: 11px; line-height: 1.35; }
 }
+
+/* Keep the first navigation item fully inside narrow phone viewports. */
+@media (max-width: 760px) {
+  .masthead__inner-wrap {
+    box-sizing: border-box;
+    width: 100%;
+    padding-right: .7rem;
+    padding-left: .7rem;
+    overflow: visible;
+  }
+
+  .greedy-nav {
+    box-sizing: border-box;
+    width: 100%;
+    min-width: 0;
+  }
+
+  .greedy-nav .visible-links {
+    min-width: 0;
+    margin-left: 0;
+    justify-content: flex-start;
+  }
+
+  .greedy-nav .visible-links a {
+    margin-right: .42rem;
+    margin-left: .42rem;
+    white-space: nowrap;
+  }
+
+  .greedy-nav .visible-links li:first-child a {
+    margin-left: 0;
+  }
+
+  .greedy-nav__toggle,
+  .theme-toggle {
+    flex: 0 0 auto;
+  }
+
+  .theme-toggle {
+    margin-right: 0;
+  }
+}
