@@ -6,7 +6,7 @@ classes: wide about-profile
 ---
 
 <div class="page-lede">
-I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a chemist and Cambridge Trust Scholar.
+I am <strong>Choonzo Nachoobe Chiyumba MRSC</strong>, a chemist and Cambridge Trust Scholar. I have successfully passed my PhD viva at the University of Cambridge and am awaiting graduation. I am actively seeking roles in synthetic chemistry, medicinal chemistry, chemical biology, biocatalysis and drug discovery.
 </div>
 
 ## My scientific journey
