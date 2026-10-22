@@ -29,7 +29,7 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 - Applied synthetic libraries to mechanistic and catalytic questions, including preliminary carbene-transfer and cyclopropanation studies.
 
 ### Artificial Metalloenzyme Research
-**PhD Researcher · University of Cambridge · 2022–2026 · Thesis submitted; viva pending**
+**PhD Researcher · University of Cambridge · 2022–2026 · Viva passed; awaiting graduation**
 
 - Engineered cytochrome *b*<sub>562</sub> variants as artificial-metalloenzyme scaffolds and developed recombinant expression and purification workflows.
 - Designed and synthesised Ir(III) and Zn(II) metalloporphyrin cofactors, optimising challenging metalation and functionalisation steps.
@@ -42,6 +42,7 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 - Designed and synthesised 15+ porphyrin and BODIPY analogues using condensation, halogenation and quaternisation chemistry.
 - Built structure–activity relationships through antimicrobial and anticancer evaluation.
 - Completed characterisation using NMR, HPLC, UV–visible and fluorescence spectroscopy, including singlet-oxygen quantum yields.
+- Gained hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM) during the MSc programme.
 - Contributed to three peer-reviewed publications in porphyrin chemistry, catalysis and chemosensing.
 
 ## Innovation & commercialisation experience
@@ -67,14 +68,14 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 <div class="skill-groups">
   <div><h3>Synthesis</h3><p>Multi-step organic and organometallic synthesis · Metalloporphyrins · Method development · Analogue libraries · Scaffold diversification</p></div>
   <div><h3>Protein & biocatalysis</h3><p>Protein variant design · Recombinant expression and purification · Protein–cofactor assembly · Binding assays · Biocatalyst characterisation</p></div>
-  <div><h3>Characterisation</h3><p>¹H, ¹³C and 2D NMR · HPLC · HRMS · UV–Vis · Fluorescence · IR · Quantitative titration</p></div>
+  <div><h3>Characterisation</h3><p>¹H, ¹³C and 2D NMR · HPLC · HRMS · UV–Vis · Fluorescence · IR · XRD · SEM · TEM · Quantitative titration</p></div>
   <div><h3>Research practice</h3><p>Experimental design · Troubleshooting · SOP development · Scientific writing · Data interpretation · Student supervision</p></div>
 </div>
 
 ## Education
 
 <div class="timeline">
-  <div><span>2022–2026</span><h3>PhD in Chemistry</h3><p><strong>University of Cambridge</strong><br>Fully funded by the Cambridge Trust. Thesis: <em>Exploring Synthetic Porphyrin–Protein Conjugates as New Artificial Metalloenzymes</em>. Thesis submitted August 2026; viva pending.</p></div>
+  <div><span>2022–2026</span><h3>PhD in Chemistry</h3><p><strong>University of Cambridge</strong><br>Fully funded by the Cambridge Trust. Thesis: <em>Exploring Synthetic Porphyrin–Protein Conjugates as New Artificial Metalloenzymes</em>. Thesis submitted August 2026; viva passed; awaiting graduation.</p></div>
   <div><span>2021–2022</span><h3>MSc in Chemistry · First Class</h3><p><strong>Rhodes University</strong><br>Fully funded by the National Research Foundation of South Africa.</p></div>
   <div><span>2020</span><h3>BSc Honours in Chemistry · First Class</h3><p><strong>Rhodes University</strong><br>Best graduating Honours student and recipient of Dean’s Colours.</p></div>
   <div><span>2012–2016</span><h3>BSc in Chemical Biology</h3><p><strong>University of Zambia</strong></p></div>
