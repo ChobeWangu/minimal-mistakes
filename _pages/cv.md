@@ -42,7 +42,7 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 - Designed and synthesised 15+ porphyrin and BODIPY analogues using condensation, halogenation and quaternisation chemistry.
 - Built structure–activity relationships through antimicrobial and anticancer evaluation.
 - Completed characterisation using NMR, HPLC, UV–visible and fluorescence spectroscopy, including singlet-oxygen quantum yields.
-- Gained hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM) during the MSc programme.
+- Gained hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM).
 - Contributed to three peer-reviewed publications in porphyrin chemistry, catalysis and chemosensing.
 
 ## Innovation & commercialisation experience

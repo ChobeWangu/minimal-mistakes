@@ -57,7 +57,7 @@ During my MSc research, I designed and synthesised more than 15 π-extended BODI
 
 Systematic biological and photophysical evaluation connected halogenation, π-extension and cationic charge with molecular performance. This work developed my ability to use synthesis as a tool for structure–activity analysis and contributed to three peer-reviewed publications.
 
-During my MSc, I also gained hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM), broadening my characterisation experience beyond molecular spectroscopy and chromatography.
+I also gained hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM), broadening my characterisation experience beyond molecular spectroscopy and chromatography.
 
 ## What I bring as a synthetic chemist {#capabilities}
 
