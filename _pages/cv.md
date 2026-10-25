@@ -47,6 +47,17 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 - Gained hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM).
 - Contributed to three peer-reviewed publications in porphyrin chemistry, catalysis and chemosensing.
 
+<div class="research-gallery__grid" aria-label="Selected computational chemistry work from MSc research">
+  <figure>
+    <img src="/assets/images/hsa-photosensitiser-molecular-docking.png" alt="Molecular docking visualisations of anticancer photosensitisers positioned within human serum albumin binding pockets." loading="lazy">
+    <figcaption><strong>Molecular docking with HSA</strong><span>Representative predicted binding poses of anticancer photosensitisers with human serum albumin.</span></figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/bodipy-mo-energy-diagram.png" alt="Calculated molecular-orbital energies and HOMO–LUMO gaps for a series of synthesised BODIPY dyes." loading="lazy">
+    <figcaption><strong>DFT and orbital analysis</strong><span>Calculated molecular-orbital energies and HOMO–LUMO gaps used to examine structure–property relationships across the BODIPY series.</span></figcaption>
+  </figure>
+</div>
+
 ## Innovation & commercialisation experience
 
 ### EnterpriseTECH
