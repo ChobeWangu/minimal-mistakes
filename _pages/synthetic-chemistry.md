@@ -57,14 +57,34 @@ During my MSc research, I designed and synthesised more than 15 π-extended BODI
 
 Systematic biological and photophysical evaluation connected halogenation, π-extension and cationic charge with molecular performance. This work developed my ability to use synthesis as a tool for structure–activity analysis and contributed to three peer-reviewed publications.
 
-I also gained hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM), broadening my characterisation experience beyond molecular spectroscopy and chromatography.
+My MSc training also included hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM), broadening my characterisation experience beyond molecular spectroscopy and chromatography.
 
-I also used molecular docking to investigate interactions between anticancer photosensitisers and human serum albumin (HSA), linking molecular design with predicted protein-binding behaviour.
+Using molecular docking, I investigated interactions between anticancer photosensitisers and human serum albumin (HSA), linking molecular design with predicted protein-binding behaviour.
 
 <figure class="synthesis-figure synthesis-figure--wide">
   <img src="/assets/images/hsa-photosensitiser-molecular-docking.png" alt="Molecular docking visualisations of anticancer photosensitisers positioned within human serum albumin binding pockets, with hydrogen-bond donor and acceptor surface regions shown." loading="lazy">
   <figcaption><strong>Protein–ligand docking.</strong> Representative docked poses of anticancer photosensitisers with human serum albumin, used to examine predicted binding modes and intermolecular interactions.</figcaption>
 </figure>
+
+### Computational modelling of photoactive dyes
+
+Using Gaussian 09, I performed density functional theory (DFT) and time-dependent DFT calculations on selected BODIPY dyes and porphyrins. Geometry optimisation and frontier-orbital analysis helped relate molecular structure, HOMO–LUMO energies and predicted electronic transitions to the observed optical properties. The calculations used B3LYP and CAM-B3LYP functionals with 6-31G(d) or SDD basis sets, as appropriate for the molecular composition.
+
+<figure class="synthesis-figure synthesis-figure--wide">
+  <img src="/assets/images/bodipy-mo-energy-diagram.png" alt="Molecular-orbital energy diagram for a series of synthesised BODIPY dyes, showing HOMO and LUMO levels and their energy gaps." loading="lazy">
+  <figcaption><strong>Frontier-orbital energy analysis.</strong> Calculated molecular-orbital energies and HOMO–LUMO gaps were compared across the synthesised BODIPY series to examine how structural changes influence electronic properties.</figcaption>
+</figure>
+
+<div class="research-gallery__grid" aria-label="Calculated frontier molecular orbitals of BODIPY dyes">
+  <figure>
+    <img src="/assets/images/bodipy-homo-lumo-core-dyes.png" alt="Calculated HOMO and LUMO orbital surfaces and energies for core and halogen-substituted BODIPY dyes." loading="lazy">
+    <figcaption><strong>Core BODIPY dyes</strong><span>Calculated HOMO and LUMO distributions for representative core and halogen-substituted structures.</span></figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/bodipy-frontier-orbitals-extended-dyes.png" alt="Calculated HOMO and LUMO orbital surfaces and energies for extended BODIPY dye structures." loading="lazy">
+    <figcaption><strong>Extended BODIPY dyes</strong><span>Frontier-orbital distributions used to evaluate how structural extension changes orbital localisation and energy.</span></figcaption>
+  </figure>
+</div>
 
 ## What I bring as a synthetic chemist {#capabilities}
 
