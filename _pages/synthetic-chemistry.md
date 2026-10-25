@@ -61,6 +61,11 @@ I also gained hands-on experience in X-ray diffraction (XRD), scanning electron 
 
 I also used molecular docking to investigate interactions between anticancer photosensitisers and human serum albumin (HSA), linking molecular design with predicted protein-binding behaviour.
 
+<figure class="synthesis-figure synthesis-figure--wide">
+  <img src="/assets/images/hsa-photosensitiser-molecular-docking.png" alt="Molecular docking visualisations of anticancer photosensitisers positioned within human serum albumin binding pockets, with hydrogen-bond donor and acceptor surface regions shown." loading="lazy">
+  <figcaption><strong>Protein–ligand docking.</strong> Representative docked poses of anticancer photosensitisers with human serum albumin, used to examine predicted binding modes and intermolecular interactions.</figcaption>
+</figure>
+
 ## What I bring as a synthetic chemist {#capabilities}
 
 <div class="skill-groups synthesis-capabilities">
