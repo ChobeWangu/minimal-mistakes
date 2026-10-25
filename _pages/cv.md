@@ -67,6 +67,15 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 - Translated complex scientific ideas into persuasive funding-pitch narratives for non-specialist and commercially focused audiences.
 - Developed concise video-marketing content to communicate technology value, strengthening commercial awareness, teamwork and stakeholder communication.
 
+## Professional development & industry engagement
+
+### Broadening Horizons Scholar
+**Royal Society of Chemistry**
+
+- Selected to participate in the Royal Society of Chemistry's Broadening Horizons in the Chemical Sciences programme.
+- Engaged with professional-development, mentoring and industry-networking opportunities designed to broaden awareness of career pathways across the chemical sciences.
+- [Learn more about the Broadening Horizons programme](https://www.rsc.org/funding-and-support/careers/working-in-the-chemical-sciences/broadening-horizons).
+
 ## Global-health engagement
 
 ### Invited Delegate · Science of Malaria Medicine Symposium
