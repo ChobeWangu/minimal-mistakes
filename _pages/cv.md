@@ -41,6 +41,7 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
 
 - Designed and synthesised 15+ porphyrin and BODIPY analogues using condensation, halogenation and quaternisation chemistry.
 - Built structure–activity relationships through antimicrobial and anticancer evaluation.
+- Investigated interactions between anticancer photosensitisers and human serum albumin (HSA) using molecular docking.
 - Completed characterisation using NMR, HPLC, UV–visible and fluorescence spectroscopy, including singlet-oxygen quantum yields.
 - Gained hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM).
 - Contributed to three peer-reviewed publications in porphyrin chemistry, catalysis and chemosensing.
@@ -69,6 +70,7 @@ A multidisciplinary profile combining synthetic chemistry, chemical biology, pro
   <div><h3>Synthesis</h3><p>Multi-step organic and organometallic synthesis · Metalloporphyrins · Method development · Analogue libraries · Scaffold diversification</p></div>
   <div><h3>Protein & biocatalysis</h3><p>Protein variant design · Recombinant expression and purification · Protein–cofactor assembly · Binding assays · Biocatalyst characterisation</p></div>
   <div><h3>Characterisation</h3><p>¹H, ¹³C and 2D NMR · HPLC · HRMS · UV–Vis · Fluorescence · IR · XRD · SEM · TEM · Quantitative titration</p></div>
+  <div><h3>Computational chemistry</h3><p>Molecular docking · Protein–ligand interaction analysis · Docking visualisation</p></div>
   <div><h3>Research practice</h3><p>Experimental design · Troubleshooting · SOP development · Scientific writing · Data interpretation · Student supervision</p></div>
 </div>
 

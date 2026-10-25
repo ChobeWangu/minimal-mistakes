@@ -59,6 +59,8 @@ Systematic biological and photophysical evaluation connected halogenation, π-ex
 
 I also gained hands-on experience in X-ray diffraction (XRD), scanning electron microscopy (SEM) and transmission electron microscopy (TEM), broadening my characterisation experience beyond molecular spectroscopy and chromatography.
 
+I also used molecular docking to investigate interactions between anticancer photosensitisers and human serum albumin (HSA), linking molecular design with predicted protein-binding behaviour.
+
 ## What I bring as a synthetic chemist {#capabilities}
 
 <div class="skill-groups synthesis-capabilities">
